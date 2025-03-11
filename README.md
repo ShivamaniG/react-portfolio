@@ -1,2 +1,3 @@
 ## 🚀 Live Site
-[🔗 Live on Netlify](https://shivamanig.netlify.app)
+**[Live on Netlify](https://shivamanig.netlify.app)**  
+
