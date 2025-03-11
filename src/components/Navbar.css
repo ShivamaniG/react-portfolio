@@ -1,0 +1,28 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 1rem;
+    background-color: var(--card-bg);
+    color: var(--text-dark);
+    border-radius: 12px;
+    margin-bottom: 1rem;
+  }
+  
+  .nav-logo h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: var(--text-dark);
+    font-weight: 500;
+  }
+  

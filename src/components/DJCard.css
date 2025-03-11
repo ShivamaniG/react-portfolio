@@ -1,0 +1,21 @@
+/* DJCard.css */
+.dj-card {
+    background-color: var(--card-bg);
+    color: var(--text-dark);
+    border-radius: 12px;
+    padding: 2rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .dj-card h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .dj-card p {
+    line-height: 1.6;
+    opacity: 0.8;
+  }

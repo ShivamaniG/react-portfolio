@@ -1,0 +1,24 @@
+/* ProjectsGrid.css */
+.projects-section {
+    margin-top: 1rem;
+  }
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  .project-card-link {
+    text-decoration: none; 
+    color: inherit; 
+    display: block; 
+  }
+  
+  .right-column {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
