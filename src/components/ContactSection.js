@@ -5,7 +5,7 @@ import './ContactSection.css';
 
 const ContactSection = () => {
   const socialLinks = [
-    { id: 2, name: 'EMAIL', url: 'mailto:shivamanigangarapu@gmail.com' },
+    { id: 2, name: 'EMAIL', url: 'https://mail.google.com/mail/?view=cm&to=shivamanigangarapu@gmail.com' },
     { id: 3, name: 'LINKEDIN', url: 'https://www.linkedin.com/in/shivamani-gangarapu/' } ,
     { id: 1, name: 'INSTAGRAM', url: 'https://instagram.com' }
   ];
